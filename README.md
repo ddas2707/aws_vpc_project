@@ -109,7 +109,7 @@ This diagram shows:
 
 ### 📚 Reference
 
-Inspired by [Abhishek Veeramalla’s YouTube Tutorial](https://www.youtube.com/watch?v=Koabqyopqns&t=3475s)
+Inspired by [Abhishek Veeramalla’s YouTube Tutorial](https://youtu.be/Koabqyopqns?si=Ds4Pwz6R3YOBx3ej)
 I customized and built my own version of the project.
 
 ---
