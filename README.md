@@ -1,10 +1,5 @@
 ![AWS Terraform Infra](https://github.com/user-attachments/assets/b4d75c5d-9a94-49e8-a40f-da1d55ae8ea1)
 
-Perfect — you can make your **README.md** look natural, detailed, and written by you while still explaining your Terraform project well.
-Here’s a personalized version based on your setup (VPC, subnets, EC2s, S3, ALB, and user data scripts) and the YouTube video you’re following 👇
-
----
-
 ## 🧩 Setting up Infrastructure on AWS using Terraform
 
 This project demonstrates how I automated the setup of a complete AWS infrastructure using **Terraform**.
